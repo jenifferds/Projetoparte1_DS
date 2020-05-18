@@ -1,0 +1,10 @@
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\bin\Debug\BLL_parte1DS.dll
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\bin\Debug\BLL_parte1DS.pdb
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\bin\Debug\DAL_parte1DS.dll
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\bin\Debug\DTO_parte1DS.dll
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\bin\Debug\DAL_parte1DS.pdb
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\bin\Debug\DTO_parte1DS.pdb
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\obj\Debug\BLL_parte1DS.csprojAssemblyReference.cache
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\obj\Debug\BLL_parte1DS.csproj.CopyComplete
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\obj\Debug\BLL_parte1DS.dll
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\BLL_parte1DS\obj\Debug\BLL_parte1DS.pdb

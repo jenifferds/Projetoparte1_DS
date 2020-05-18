@@ -1,0 +1,11 @@
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\bin\Debug\Projeto_Parte1_DS.exe.config
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\bin\Debug\Projeto_Parte1_DS.exe
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\bin\Debug\Projeto_Parte1_DS.pdb
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\obj\Debug\Projeto_Parte1_DS.csprojAssemblyReference.cache
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\obj\Debug\Projeto_Parte1_DS.Cadastro.resources
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\obj\Debug\Projeto_Parte1_DS.Entrada.resources
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\obj\Debug\Projeto_Parte1_DS.Login.resources
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\obj\Debug\Projeto_Parte1_DS.Properties.Resources.resources
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\obj\Debug\Projeto_Parte1_DS.csproj.GenerateResource.cache
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\obj\Debug\Projeto_Parte1_DS.exe
+C:\Users\jenif\source\repos\Projeto_Parte1_DS\Projeto_Parte1_DS\obj\Debug\Projeto_Parte1_DS.pdb
